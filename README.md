@@ -14,12 +14,15 @@ c-Um arquivo .js
 
 4-Adicione esses arquivos e dê um commit um por um no repositório, documentando o que você fez;
 >git add index.html
+
 >git commit - m "up arquivo .html"
 
 >git add script.js
+
 >git commit - m "up arquivo .js"
 
 >git add estilo.css
+
 >git commit - m "up arquivo .css"
 
 5-Suba o projeto no repositório remoto;
@@ -30,9 +33,11 @@ c-Um arquivo .js
 
 5-Faça o passo 4 novamente e suba sua branch teste no repositório remoto;
 >git add index.html
+
 >git commit - m "up branch teste arquivo .html"
 
 >git add script.js
+
 >git commit - m "up branch teste arquivo .js"
 
 >git add estilo.css
@@ -49,6 +54,4 @@ c-Um arquivo .js
 >git checkout main
 
 >git push origin main
-
-
 
